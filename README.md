@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Tavs44
 - 👀 I’m interested in ... physics, mathematics,chess
-- 🌱 I’m currently learning ...A -Level
-- 💞️ I’m looking to collaborate on ... science projects
+- 🌱 I’m currently learning ...Mechanical Engineering
+- 💞️ I’m looking to collaborate on ... science projects,and python projects
+- 
 - 📫 How to reach me ... tavongaisaac@gmail.com
 
 <!---
